@@ -25,14 +25,6 @@
                     <div class="header-left"><a href="{{ route('main') }}">{{$variables->where('key', 'site-brand')->first()->value ?? ''}}</a>
                         <p class="laravel-developer-header"><a href="{{ route('main') }}">{{$variables->where('key', 'site-sub-title')->first()->value ?? ''}}</a></p>
                         <div style="font-size:15px;">
-                            <span class="badge badge-secondary"></span> 
-                            <span class="badge badge-secondary"></span>
-                            <span class="badge badge-secondary"></span>
-                            <span class="badge badge-secondary"></span>
-                            <span class="badge badge-secondary"></span>
-                            <span class="badge badge-secondary"></span>
-                            <span class="badge badge-secondary"></span>
-                            <span class="badge badge-secondary"></span>
                             <span class="badge badge-secondary">Remote Experience</span>
                             <span class="badge badge-secondary">Experienced 3+ years</span>
                         </div>
