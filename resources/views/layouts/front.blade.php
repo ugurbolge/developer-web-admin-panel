@@ -35,10 +35,10 @@
                             <span class="badge badge-secondary">Google Search Console</span>
                             <span class="badge badge-secondary">Google Analytics 360</span>
                             <span class="badge badge-secondary">UI/UX Design</span>
-                            <span class="badge badge-secondary">Web & Mobile App Design</span>
+                            <span class="badge badge-secondary">Web,Mobile App Design</span>
                             <span class="badge badge-secondary">Brand Design</span>
                             <span class="badge badge-secondary">Adobe Creative Cloud</span>
-                            <span class="badge badge-secondary">IT Strategy & IT Management</span>
+                            <span class="badge badge-secondary">IT Strategy,IT Management</span>
                             <span class="badge badge-secondary">Linux,MacOS,Windows Support</span>
                             <span class="badge badge-secondary">ISO/IEC 27001:2013</span>
                             <span class="badge badge-secondary">Experienced 5+ years</span>
