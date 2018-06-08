@@ -25,21 +25,14 @@
                     <div class="header-left"><a href="{{ route('main') }}">{{$variables->where('key', 'site-brand')->first()->value ?? ''}}</a>
                         <p class="laravel-developer-header"><a href="{{ route('main') }}">{{$variables->where('key', 'site-sub-title')->first()->value ?? ''}}</a></p>
                         <div style="font-size:15px;">
-                            <span class="badge badge-secondary">Seo Management</span>
-                            <span class="badge badge-secondary">Sem Analysis</span>
-                            <span class="badge badge-secondary">Digital Marketing</span>
-                            <span class="badge badge-secondary">Content Management</span>
+                            <span class="badge badge-secondary">SEO</span>
+                            <span class="badge badge-secondary">SEM</span>
+                            <span class="badge badge-secondary">Marketing</span>                    
                             <span class="badge badge-secondary">Social Media</span>
                             <span class="badge badge-secondary">Google Analytics</span>
-                            <span class="badge badge-secondary">Google Adwords</span>
-                            <span class="badge badge-secondary">Google Search Console</span>
-                            <span class="badge badge-secondary">Google Analytics 360</span>
-                            <span class="badge badge-secondary">UI/UX Design</span>
-                            <span class="badge badge-secondary">Web,Mobile App Design</span>
-                            <span class="badge badge-secondary">Brand Design</span>
+                            <span class="badge badge-secondary">Google Adwords</span>                            
                             <span class="badge badge-secondary">Adobe Creative Cloud</span>
                             <span class="badge badge-secondary">IT Strategy,IT Management</span>
-                            <span class="badge badge-secondary">Linux,MacOS,Windows Support</span>
                             <span class="badge badge-secondary">ISO/IEC 27001:2013</span>
                             <span class="badge badge-secondary">Experienced 5+ years</span>
                             <span class="badge badge-secondary">Open to remote or freelance job offers</span>
