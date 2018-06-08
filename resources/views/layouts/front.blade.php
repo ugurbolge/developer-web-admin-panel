@@ -31,9 +31,7 @@
                             <span class="badge badge-secondary">Social Media</span>
                             <span class="badge badge-secondary">Google Analytics</span>
                             <span class="badge badge-secondary">Google Adwords</span>                            
-                            <span class="badge badge-secondary">Adobe Creative Cloud</span>
-                            <span class="badge badge-secondary">IT Strategy,IT Management</span>
-                            <span class="badge badge-secondary">ISO/IEC 27001:2013</span>
+                            <span class="badge badge-secondary">Adobe CC</span>
                             <span class="badge badge-secondary">Experienced 5+ years</span>
                             <span class="badge badge-secondary">Open to remote or freelance job offers</span>
                         </div>
