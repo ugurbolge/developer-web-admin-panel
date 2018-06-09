@@ -33,7 +33,6 @@
                             <span class="badge badge-secondary">Adwords</span>                            
                             <span class="badge badge-secondary">Adobe CC</span>
                             <span class="badge badge-secondary">Experienced 5+ years</span>
-                            <span class="badge badge-secondary">Open to remote or freelance job offers</span>
                         </div>
                     </div>
                 </div>
