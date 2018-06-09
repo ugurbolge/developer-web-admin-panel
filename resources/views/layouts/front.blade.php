@@ -29,8 +29,8 @@
                             <span class="badge badge-secondary">SEM</span>
                             <span class="badge badge-secondary">Marketing</span>                    
                             <span class="badge badge-secondary">Social Media</span>
-                            <span class="badge badge-secondary">Google Analytics</span>
-                            <span class="badge badge-secondary">Google Adwords</span>                            
+                            <span class="badge badge-secondary">Analytics</span>
+                            <span class="badge badge-secondary">Adwords</span>                            
                             <span class="badge badge-secondary">Adobe CC</span>
                             <span class="badge badge-secondary">Experienced 5+ years</span>
                             <span class="badge badge-secondary">Open to remote or freelance job offers</span>
